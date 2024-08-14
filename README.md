@@ -1,7 +1,7 @@
 # Credit Risk Analysis Report and Credit Risk Classification 
 Objective: This project aims to use various techniques to train and evaluate a model based on loan risk. We will use a dataset of historical lending activity from a peer-to-peer lending services company to build a model that can identify the creditworthiness of borrowers. We also assess the accuracy, precision, and recall of the model to determine its suitability for use by the company.
 
-# Model Performance Metrics
+## Model Performance Metrics
 Accuracy: The model achieved an impressive accuracy of 0.99, indicating strong overall predictive performance.
 Precision (Class 1 - High-Risk Loans): The precision for high-risk loans (Class 1) is 0.88. This means that when the model predicts a loan as high-risk, it is correct 88% of the time.
 Recall (Class 1 - High-Risk Loans): The recall (sensitivity) for high-risk loans is 0.91. This indicates that the model correctly identifies 91% of actual high-risk loans.
